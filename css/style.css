@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700');
+
+h1, h2, h3, h4, h5, h6{
+	margin-top: 2px;
+	margin-bottom: 1px;
+}
+
+.center-block{
+	margin: 0 auto;
+	display: block;
+}
+
+.img-responsive{
+	max-width: 100%;
+}
+
+.md .navbar{
+	background-color: #735e5d;
+	font-family: 'Roboto Slab', serif;
+	
+}
+.page-content{
+	background-color: #A27d77;
+	font-family: 'Roboto Slab', serif;
+}
+
+.md .card{
+	box-shadow: none;
+	border: none;
+	border-radius: 0;
+	color:#A27d77;
+}
+
+#chocolaty, #raspberry{
+	background-color: #fff;
+	color: #614d4f;
+}
+
+h1{
+ 	font-size: 25px;
+}
+h4{
+	color: #cbb9b7;
+}
+.md .card-footer{
+	color: #fe5353;
+	padding: 0px 10px;
+	min-height: 30px;
+}
+.md .card-header{
+	padding: 0px 10px;
+	min-height: 30px;
+}
